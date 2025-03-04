@@ -22,5 +22,3 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   # Replace 'assets/' with the directory where your assets are located
-  assets:
-    - assets/
